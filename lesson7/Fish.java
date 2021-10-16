@@ -21,7 +21,7 @@ class Solution {
                       }
                   if(s.peek() < A[i]){
                       s.pop();
-                      alive--;
+                      alive--; //another downstream fish can eat now
                       }   
                 }
             }
