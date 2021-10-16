@@ -13,6 +13,7 @@ My solution of codility lesson (Java)
 ### Lesson 5 - Prefix Sums
 ### Lesson 6 - Sorting
 ### Lesson 7 - Stacks and Queues
+- [Fish](./lesson7/Fish.java)
 ### Lesson 8 - Leader (Majority Element)
 ### Lesson 9 - Maximum slice problem
 ### Lesson 10 - Prime and composite numbers
