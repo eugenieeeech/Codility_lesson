@@ -1,5 +1,5 @@
 # Codility Lesson
-My solution of codility lesson
+My solution of codility lesson (Java)
 
 ## Done Solution
 ### Lesson 1 - Iterations
