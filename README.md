@@ -3,13 +3,13 @@ My solution of codility lesson
 
 ## Done Solution
 ### Lesson 1 - Iterations
-Binary Gap
+- [BinaryGap](./lesson1/BinaryGap.java)
 ### Lesson 2 -Arrays
 Odd Occurrences In Array
 ### Lesson 3 -Time Complexity
-Frog Jump 
+- [Frog Jump](./lesson3/FrogJmp.java)
 ### Lesson 4 - Counting Elements
-Frog River One
+- [Frog River One](./lesson4/FrogRiverOne.java)
 ### Lesson 5 - Prefix Sums
 ### Lesson 6 - Sorting
 ### Lesson 7 - Stacks and Queues
