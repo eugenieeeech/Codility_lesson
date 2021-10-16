@@ -5,7 +5,7 @@ My solution of codility lesson (Java)
 ### Lesson 1 - Iterations
 - [BinaryGap](./lesson1/BinaryGap.java)
 ### Lesson 2 -Arrays
-Odd Occurrences In Array
+- [Odd Occurrences In Array](./lesson2/OddOccurrencesInArray.java)
 ### Lesson 3 -Time Complexity
 - [Frog Jump](./lesson3/FrogJmp.java)
 ### Lesson 4 - Counting Elements
