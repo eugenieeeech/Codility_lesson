@@ -20,6 +20,7 @@ My solution of codility lesson (Java)
 ### Lesson 11 - Sieve of Eratosthenes
 ### Lesson 12 - Euclidean algorithm
 ### Lesson 13 - Fibonacci numbers
+- [FibFrog](./lesson13/FibFrog.java)
 ### Lesson 14 - Binary search algorithm
 ### Lesson 15 - Caterpillar method
 ### Lesson 16 - Greedy algorithms
